@@ -126,6 +126,10 @@ dmypy.json
 # General
 .vagrant/
 
+### Sincronizado con NFS ###
+# GeneralNFS
+sincronizado/
+
 # Log files (if you are creating logs in debug mode, uncomment this)
 # *.logs
 
